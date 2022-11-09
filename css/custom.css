@@ -176,14 +176,14 @@ div#category {
 }
 
 /* 页脚透明 */
-/* #footer {
+#footer {
   background: transparent !important;
-} */
+}
 
 /* 头图透明 */
-/* #page-header {
+#page-header {
   background: transparent !important;
-} */
+}
 
 #rightside>div>button {
   border-radius: 5px;
